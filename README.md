@@ -1,5 +1,5 @@
 # ChandraChess
-UCI Chess Engine written in C++
+MacOS Intel based UCI Chess Engine written in C++
 Supported options:
 -Hash size
 -Clear hash
