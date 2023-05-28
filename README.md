@@ -6,4 +6,4 @@ Supported options:
 -Fixed depth
 -Fixed time
 -Time controls
--Multithreading (set to 4 threads always)
+-Multithreading (set to 1 thread always in this release)
